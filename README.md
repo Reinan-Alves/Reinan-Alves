@@ -9,5 +9,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reinan-alves&layout=compact&theme=dark)](https://github.com/reinan-alves/github-readme-stats)
 
 <div style="display: inline-block">
+
+
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />       
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 </div>
