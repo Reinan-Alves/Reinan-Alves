@@ -6,9 +6,6 @@
 - 😄 Pronouns: Ele
 - 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinan-alves)](https://github.com/anuraghazra/github-readme-stats)
-
-<div>
-  <a href="https://github.com/Reinan-Alves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reinan-alves&show_icons=true">
-</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinan-alves&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinan-alves&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reinan-alves&show_icons=true)
