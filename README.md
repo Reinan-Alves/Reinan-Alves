@@ -1,7 +1,7 @@
 ### Ólá, eu sou o Reinan👋
 
 - 🔭 Estou aberto para trabalho
-- 🌱 Atualmente estudo Java e Java script e Type script
+- 🌱 Atualmente estudo Java, Java script e Type script
 - 👯 Gosto de me manter ativo em grupos sobre programação, de colaborar e aprender
 - 😄 Pronouns: Ele
 
